@@ -2,6 +2,8 @@
 
 Este es un proyecto simple que permite a los usuarios agregar nombres de amigos a una lista y luego realizar un sorteo aleatorio para seleccionar un "amigo secreto".
 
+- URL: https://maikelissalazarh.github.io/challenge-amigo-secreto/
+
 ## Funcionalidades
 
 - **Agregar nombres**: Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible.
