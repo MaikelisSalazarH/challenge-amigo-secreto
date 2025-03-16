@@ -9,6 +9,14 @@ Este es un proyecto simple que permite a los usuarios agregar nombres de amigos 
 - **Visualizar la lista**: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
+![image](https://github.com/user-attachments/assets/857d5d63-dec2-4cc2-b9d3-e8a7090382e9)
+
+![image](https://github.com/user-attachments/assets/07ac5f67-a5a7-4a10-880b-a5d4cafa2999)
+
+![image](https://github.com/user-attachments/assets/89cffd7e-3508-4387-9d06-a788dbe5c3e4)
+
+
+
 ## Cómo usar
 
 1. Clona este repositorio.
@@ -18,6 +26,6 @@ Este es un proyecto simple que permite a los usuarios agregar nombres de amigos 
 
 ## Tecnologías utilizadas
 
-- HTML
-- CSS
-- JavaScript
+- **HTML**:      ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+- **CSS**:       ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=white)
+- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
